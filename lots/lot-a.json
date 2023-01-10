@@ -1,0 +1,9 @@
+{
+  "name": "Parking Lot A",
+  "floors": [
+    {"name": "Floor 1", "spaces": 50},
+    {"name": "Mezzanine", "spaces": 15},
+    {"name": "Floor 2", "spaces": 34},
+    {"name": "Floor 3", "spaces": 82}
+  ]
+}

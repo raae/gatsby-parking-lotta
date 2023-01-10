@@ -1,0 +1,83 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`LotApp renders correctly 1`] = `
+[
+  <p>
+    9
+     out of 
+    9
+     available
+  </p>,
+  <details>
+    <summary
+      style={
+        {
+          "color": "inherit",
+        }
+      }
+    >
+      Test Floor
+      : 
+      4
+       out of 
+      4
+       available
+    </summary>
+    <button
+      disabled={false}
+      onClick={[Function]}
+    >
+      Park
+    </button>
+     
+    <button
+      disabled={true}
+      onClick={[Function]}
+    >
+      Leave
+    </button>
+  </details>,
+  <details>
+    <summary
+      style={
+        {
+          "color": "inherit",
+        }
+      }
+    >
+      Test Floor
+      : 
+      5
+       out of 
+      5
+       available
+    </summary>
+    <button
+      disabled={false}
+      onClick={[Function]}
+    >
+      Park
+    </button>
+     
+    <button
+      disabled={true}
+      onClick={[Function]}
+    >
+      Leave
+    </button>
+  </details>,
+  <button
+    disabled={false}
+    onClick={[Function]}
+  >
+    Park any floor
+  </button>,
+  " ",
+  <button
+    disabled={true}
+    onClick={[Function]}
+  >
+    Leave any floor
+  </button>,
+]
+`;
